@@ -1,13 +1,3 @@
-SERVICES
-DOCUMENTS
-ES6-Vanilla-JS-Template-Parcel.md
-PREVIEW AS 
-EXPORT AS 
-SAVE TO 
-IMPORT FROM 
-DOCUMENT NAME
-ES6-Vanilla-JS-Template-Parcel.md
-MARKDOWNPREVIEWToggle Mode
   
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="ES6VanillaJSTemplateParcel_0"></a>ES6-Vanilla-JS-Template-Parcel</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Includes these packages:</p>
