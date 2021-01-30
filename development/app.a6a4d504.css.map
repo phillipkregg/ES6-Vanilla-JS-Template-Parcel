@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\scss\\app.scss"],"names":[],"mappings":"AAAA;EACE;EACA","file":"app.a6a4d504.css","sourceRoot":"..\\public","sourcesContent":["body {\r\n  background-color: rgb(53, 53, 54);\r\n  color: white;\r\n}\r\n"]}
