@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /.cache
+/development
 
 # Runtime data
 pids
