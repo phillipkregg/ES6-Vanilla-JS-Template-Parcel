@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="ES6VanillaJSTemplateParcel_0"></a>ES6-Vanilla-JS-Template-Parcel</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="ES6VanillaJSTemplateParcel_0"></a>Basic template for getting started with ES6 modules using Parcel bundler.</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Includes these packages:</p>
 <p class="has-line-data" data-line-start="4" data-line-end="9">“@babel/core”: “^7.12.10”,<br>
 “@babel/plugin-transform-runtime”: “^7.12.10”,<br>
